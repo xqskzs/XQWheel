@@ -187,6 +187,7 @@
 		6E60DE7720E767BB0008F512 /* XQWheel */ = {
 			isa = PBXGroup;
 			children = (
+				6EA1CCD820F1FD1300803168 /* TestClass */,
 				6E60DE9320E76CE50008F512 /* Toos */,
 				6E60DE8E20E76AED0008F512 /* XQWheelLandscape */,
 				6E60DE8F20E76AED0008F512 /* XQWheelVertical */,
@@ -194,14 +195,6 @@
 				6E60DE7920E767BB0008F512 /* AppDelegate.m */,
 				6E60DE7B20E767BB0008F512 /* ViewController.h */,
 				6E60DE7C20E767BB0008F512 /* ViewController.m */,
-				6E29C39220EB675A00037F25 /* LandscapeController.h */,
-				6E29C39320EB675A00037F25 /* LandscapeController.m */,
-				6E29C39520EB69EB00037F25 /* VerticalController.h */,
-				6E29C39620EB69EB00037F25 /* VerticalController.m */,
-				6E29C3A420EB7FC400037F25 /* VerticalUnController.h */,
-				6E29C3A520EB7FC400037F25 /* VerticalUnController.m */,
-				6E29C3A120EB7EA400037F25 /* BaseViewController.h */,
-				6E29C3A220EB7EA400037F25 /* BaseViewController.m */,
 				6E60DE7E20E767BB0008F512 /* Main.storyboard */,
 				6E60DE8120E767BD0008F512 /* Assets.xcassets */,
 				6E60DE8320E767BD0008F512 /* LaunchScreen.storyboard */,
@@ -358,6 +351,21 @@
 				6E825BB820E9C51F006D969A /* ViewController+MASAdditions.m */,
 			);
 			path = Masonry;
+			sourceTree = "<group>";
+		};
+		6EA1CCD820F1FD1300803168 /* TestClass */ = {
+			isa = PBXGroup;
+			children = (
+				6E29C39220EB675A00037F25 /* LandscapeController.h */,
+				6E29C39320EB675A00037F25 /* LandscapeController.m */,
+				6E29C39520EB69EB00037F25 /* VerticalController.h */,
+				6E29C39620EB69EB00037F25 /* VerticalController.m */,
+				6E29C3A420EB7FC400037F25 /* VerticalUnController.h */,
+				6E29C3A520EB7FC400037F25 /* VerticalUnController.m */,
+				6E29C3A120EB7EA400037F25 /* BaseViewController.h */,
+				6E29C3A220EB7EA400037F25 /* BaseViewController.m */,
+			);
+			path = TestClass;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
